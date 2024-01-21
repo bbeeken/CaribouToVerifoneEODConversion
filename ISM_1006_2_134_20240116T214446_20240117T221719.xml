@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NAXML-MovementReport xmlns="http://www.naxml.org/POSBO/Vocabulary/2003-10-16" version="3.4">
+  <TransmissionHeader>
+    <StoreLocationID>1006</StoreLocationID>
+    <VendorName>VeriFone</VendorName>
+    <VendorModelVersion>Commander Site Controller</VendorModelVersion>
+  </TransmissionHeader>
+  <ItemSalesMovement>
+    <MovementHeader>
+      <ReportSequenceNumber>134</ReportSequenceNumber>
+      <PrimaryReportPeriod interval="day">2</PrimaryReportPeriod>
+      <BeginDate>2024-01-16</BeginDate>
+      <BeginTime>21:44:46</BeginTime>
+      <EndDate>2024-01-17</EndDate>
+      <EndTime>22:17:19</EndTime>
+    </MovementHeader>
+    <ISMDetail>
+      <ItemCode>
+        <POSCodeFormat format="plu" />
+        <POSCode>00018200860317</POSCode>
+        <POSCodeModifier>0</POSCodeModifier>
+      </ItemCode>
+      <ItemID>00018200860317</ItemID>
+      <Description>BUSCH LIGHT 12OZ CN</Description>
+      <MerchandiseCode name="04 BEER" isNegative="false">4</MerchandiseCode>
+      <SellingUnits>30.000</SellingUnits>
+      <ISMSellPriceSummary>
+        <ActualSalesPrice currency="USD">23.59</ActualSalesPrice>
+        <ISMSalesTotals>
+          <SalesQuantity uom="each">1.000</SalesQuantity>
+          <SalesAmount currency="USD">23.59</SalesAmount>
+          <TransactionCount>1</TransactionCount>
+        </ISMSalesTotals>
+      </ISMSellPriceSummary>
+      <ISMSalesTotals>
+        <SalesQuantity uom="each">1.000</SalesQuantity>
+        <SalesAmount currency="USD">23.59</SalesAmount>
+        <TransactionCount>1</TransactionCount>
+      </ISMSalesTotals>
+    </ISMDetail>
+    <ISMDetail>
+      <ItemCode>
+        <POSCodeFormat format="plu" />
+        <POSCode>00457106006199</POSCode>
+        <POSCodeModifier>0</POSCodeModifier>
+      </ItemCode>
+      <ItemID>00457106006199</ItemID>
+      <Description>CINNABON CENTER OF THE R</Description>
+      <MerchandiseCode name="55 CINNABON" isNegative="false">55</MerchandiseCode>
+      <SellingUnits>1.000</SellingUnits>
+      <ISMSellPriceSummary>
+        <ActualSalesPrice currency="USD">4.99</ActualSalesPrice>
+        <ISMSalesTotals>
+          <SalesQuantity uom="each">3.000</SalesQuantity>
+          <SalesAmount currency="USD">14.97</SalesAmount>
+          <TransactionCount>3</TransactionCount>
+        </ISMSalesTotals>
+      </ISMSellPriceSummary>
+      <ISMSalesTotals>
+        <SalesQuantity uom="each">3.000</SalesQuantity>
+        <SalesAmount currency="USD">14.97</SalesAmount>
+        <TransactionCount>3</TransactionCount>
+      </ISMSalesTotals>
+    </ISMDetail>
+    <ISMDetail>
+      <ItemCode>
+        <POSCodeFormat format="plu" />
+        <POSCode>00038200000117</POSCode>
+        <POSCodeModifier>0</POSCodeModifier>
+      </ItemCode>
+      <ItemID>00038200000117</ItemID>
+      <Description>VAN HOLTEN LARGE HOT PIC</Description>
+      <MerchandiseCode name="18 PERISHABLE GROCERY" isNegative="false">18</MerchandiseCode>
+      <SellingUnits>1.000</SellingUnits>
+      <ISMSellPriceSummary>
+        <ActualSalesPrice currency="USD">0.99</ActualSalesPrice>
+        <ISMSalesTotals>
+          <SalesQuantity uom="each">1.000</SalesQuantity>
+          <SalesAmount currency="USD">0.99</SalesAmount>
+          <TransactionCount>1</TransactionCount>
+        </ISMSalesTotals>
+      </ISMSellPriceSummary>
+      <ISMSalesTotals>
+        <SalesQuantity uom="each">1.000</SalesQuantity>
+        <SalesAmount currency="USD">0.99</SalesAmount>
+        <TransactionCount>1</TransactionCount>
+      </ISMSalesTotals>
+    </ISMDetail>
+    <ISMDetail>
+      <ItemCode>
+        <POSCodeFormat format="plu" />
+        <POSCode>00040000577980</POSCode>
+        <POSCodeModifier>0</POSCodeModifier>
+      </ItemCode>
+      <ItemID>00040000577980</ItemID>
+      <Description>DOVE DARK CHOC PB PROMIS</Description>
+      <MerchandiseCode name="08 CANDY" isNegative="false">8</MerchandiseCode>
+      <SellingUnits>1.000</SellingUnits>
+      <ISMSellPriceSummary>
+        <ActualSalesPrice currency="USD">3.69</ActualSalesPrice>
+        <ISMSalesTotals>
+          <SalesQuantity uom="each">1.000</SalesQuantity>
+          <SalesAmount currency="USD">3.69</SalesAmount>
+          <TransactionCount>1</TransactionCount>
+        </ISMSalesTotals>
+      </ISMSellPriceSummary>
+      <ISMSalesTotals>
+        <SalesQuantity uom="each">1.000</SalesQuantity>
+        <SalesAmount currency="USD">3.69</SalesAmount>
+        <TransactionCount>1</TransactionCount>
+      </ISMSalesTotals>
+    </ISMDetail>
+    <ISMDetail>
+      <ItemCode>
+        <POSCodeFormat format="plu" />
+        <POSCode>00016571953867</POSCode>
+        <POSCodeModifier>0</POSCodeModifier>
+      </ItemCode>
+      <ItemID>00016571953867</ItemID>
+      <Description>ICE CAFF BLK RASP 16OZ</Description>
+      <MerchandiseCode name="07 PACKAGED BEVERAGES" isNegative="false">7</MerchandiseCode>
+      <SellingUnits>1.000</SellingUnits>
+      <ISMSellPriceSummary>
+        <ActualSalesPrice currency="USD">1.99</ActualSalesPrice>
+        <ISMSalesTotals>
+          <SalesQuantity uom="each">3.000</SalesQuantity>
+          <SalesAmount currency="USD">5.97</SalesAmount>
+          <TransactionCount>2</TransactionCount>
+        </ISMSalesTotals>
+      </ISMSellPriceSummary>
+      <ISMSalesTotals>
+        <SalesQuantity uom="each">3.000</SalesQuantity>
+        <SalesAmount currency="USD">5.97</SalesAmount>
+        <TransactionCount>2</TransactionCount>
+      </ISMSalesTotals>
+    </ISMDetail>
+  </ItemSalesMovement>
+  <ItemSalesMovement>
+    <MovementHeader>
+      <ReportSequenceNumber>134</ReportSequenceNumber>
+      <PrimaryReportPeriod interval="day">2</PrimaryReportPeriod>
+      <BeginDate>2024-01-16</BeginDate>
+      <BeginTime>21:44:46</BeginTime>
+      <EndDate>2024-01-16</EndDate>
+      <EndTime>21:44:46</EndTime>
+    </MovementHeader>
+    <SalesMovementHeader>
+      <CashierID>SYSTEM</CashierID>
+    </SalesMovementHeader>
+    <ISMDetail>
+      <ItemCode>
+        <POSCodeFormat format="plu" />
+        <POSCode>00038200000117</POSCode>
+        <POSCodeModifier>0</POSCodeModifier>
+      </ItemCode>
+      <ItemID>00038200000117</ItemID>
+      <Description>VAN HOLTEN LARGE HOT PIC</Description>
+      <MerchandiseCode name="18 PERISHABLE GROCERY" isNegative="false">18</MerchandiseCode>
+      <SellingUnits>1.000</SellingUnits>
+      <ISMSellPriceSummary>
+        <ActualSalesPrice currency="USD">0.99</ActualSalesPrice>
+        <ISMSalesTotals>
+          <SalesQuantity uom="each">1.000</SalesQuantity>
+          <SalesAmount currency="USD">0.99</SalesAmount>
+          <TransactionCount>1</TransactionCount>
+        </ISMSalesTotals>
+      </ISMSellPriceSummary>
+      <ISMSalesTotals>
+        <SalesQuantity uom="each">1.000</SalesQuantity>
+        <SalesAmount currency="USD">0.99</SalesAmount>
+        <TransactionCount>1</TransactionCount>
+      </ISMSalesTotals>
+    </ISMDetail>
+    <ISMDetail>
+      <ItemCode>
+        <POSCodeFormat format="plu" />
+        <POSCode>00040000577980</POSCode>
+        <POSCodeModifier>0</POSCodeModifier>
+      </ItemCode>
+      <ItemID>00040000577980</ItemID>
+      <Description>DOVE DARK CHOC PB PROMIS</Description>
+      <MerchandiseCode name="08 CANDY" isNegative="false">8</MerchandiseCode>
+      <SellingUnits>1.000</SellingUnits>
+      <ISMSellPriceSummary>
+        <ActualSalesPrice currency="USD">3.69</ActualSalesPrice>
+        <ISMSalesTotals>
+          <SalesQuantity uom="each">1.000</SalesQuantity>
+          <SalesAmount currency="USD">3.69</SalesAmount>
+          <TransactionCount>1</TransactionCount>
+        </ISMSalesTotals>
+      </ISMSellPriceSummary>
+      <ISMSalesTotals>
+        <SalesQuantity uom="each">1.000</SalesQuantity>
+        <SalesAmount currency="USD">3.69</SalesAmount>
+        <TransactionCount>1</TransactionCount>
+      </ISMSalesTotals>
+    </ISMDetail>
+  </ItemSalesMovement>
+</NAXML-MovementReport>

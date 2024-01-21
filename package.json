@@ -1,0 +1,27 @@
+{
+  "name": "cariboutoverifoneeodconversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbeeken/CaribouToVerifoneEODConversion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbeeken/CaribouToVerifoneEODConversion/issues"
+  },
+  "homepage": "https://github.com/bbeeken/CaribouToVerifoneEODConversion#readme",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "express": "^4.18.2",
+    "file-upload": "^0.0.0",
+    "xml-flow": "^1.0.4",
+    "xmlbuilder": "^15.1.1"
+  }
+}

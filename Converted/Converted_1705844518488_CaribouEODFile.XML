@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<NAXML-MovementReport xmlns="http://www.naxml.org/POSBO/Vocabulary/2003-10-16">
+  <TransmissionHeader>
+    <StoreLocationID>Store123</StoreLocationID>
+    <VendorName>VendorABC</VendorName>
+    <VendorModelVersion>1.0.0</VendorModelVersion>
+  </TransmissionHeader>
+  <MovementHeader>
+    <ReportSequenceNumber>12345</ReportSequenceNumber>
+    <PrimaryReportPeriod>Monthly</PrimaryReportPeriod>
+    <BeginDate>2024-01-01</BeginDate>
+    <BeginTime>08:00:00</BeginTime>
+    <EndDate>2024-01-31</EndDate>
+    <EndTime>17:00:00</EndTime>
+  </MovementHeader>
+</NAXML-MovementReport>
